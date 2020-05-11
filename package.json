@@ -1,0 +1,20 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mongotest",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mongo"
+  },
+  "author": "murshid",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
+}
